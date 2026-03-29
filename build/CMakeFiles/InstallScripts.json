@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alexf/dev/c-iv/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

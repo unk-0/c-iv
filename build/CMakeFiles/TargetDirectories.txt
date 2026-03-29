@@ -1,0 +1,3 @@
+/home/alexf/dev/c-iv/build/CMakeFiles/src.dir
+/home/alexf/dev/c-iv/build/CMakeFiles/edit_cache.dir
+/home/alexf/dev/c-iv/build/CMakeFiles/rebuild_cache.dir
